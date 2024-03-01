@@ -1,0 +1,14 @@
+C:\Users\brand\Documents\progs\Contracts\Contracts\bin\Debug\net8.0\Contracts.exe
+C:\Users\brand\Documents\progs\Contracts\Contracts\bin\Debug\net8.0\Contracts.deps.json
+C:\Users\brand\Documents\progs\Contracts\Contracts\bin\Debug\net8.0\Contracts.runtimeconfig.json
+C:\Users\brand\Documents\progs\Contracts\Contracts\bin\Debug\net8.0\Contracts.dll
+C:\Users\brand\Documents\progs\Contracts\Contracts\bin\Debug\net8.0\Contracts.pdb
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfoInputs.cache
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.AssemblyInfo.cs
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.csproj.CoreCompileInputs.cache
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.dll
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\refint\Contracts.dll
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.pdb
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\Contracts.genruntimeconfig.cache
+C:\Users\brand\Documents\progs\Contracts\Contracts\obj\Debug\net8.0\ref\Contracts.dll
